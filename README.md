@@ -1,2 +1,7 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Link to an article or web site you find interesting related to software development/engineering
+[LeetCode](https://leetcode.com/)
+
+## What I find interesting about that article
+It's a great way to practice coding as well as improve general problem solving skills.
